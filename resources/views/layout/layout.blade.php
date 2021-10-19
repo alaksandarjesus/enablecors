@@ -7,8 +7,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Bootstrap Documentation Template For Software Developers">
-    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <meta name="description" content="Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from w">
+<meta name="keywords" content="enable, cors, access, control, allow, origin, javascript, frontend, opensource, github">
+<meta name="robots" content="index, follow">
+<meta name="copyright" content="GPL">
+<meta name="language" content="EN">
+    <meta name="author" content="Alaksandar Jesus Gene">    
     <link rel="shortcut icon" href="favicon.ico"> 
     
     <!-- Google Font -->
