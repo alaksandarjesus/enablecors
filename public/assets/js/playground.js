@@ -65,7 +65,7 @@ jQuery(function () {
                 console.log(err)
             },
             complete: function () {
-
+                alert("Open console to view output");
             }
         })
     });

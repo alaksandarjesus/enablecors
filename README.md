@@ -13,4 +13,6 @@ EnableCORS is an Opensource Solution to override the CORS error on frontend deve
 
 Documentation can be viewed at [enablecors]
 
+Example codes can be viewed at public/examples folder
+
 [enablecors]: <https://www.enablecors.com>
